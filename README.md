@@ -33,10 +33,6 @@ Our activities include:
 
 We welcome contributions from everyone! If you have any ideas, suggestions, or would like to get involved, feel free to reach out to us via our social media channels or email.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 We would like to thank all the faculty members, students, and supporters who have contributed to the success of the Curie Club. Your passion and dedication are what make our events and initiatives possible.
